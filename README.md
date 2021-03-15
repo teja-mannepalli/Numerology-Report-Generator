@@ -4,6 +4,9 @@ This Python project will generate the 'numerology report' of the corresponding d
 The name of the text file will be the name of the person entered. If the same name of the already existing file is provided the old text file will be replaced.
 Kindly set the path of the directory to which the text files are to be saved.
 Change the path value of variable 'save_path' (Line 7) in 'main.py'
+Ex: D:\\Documents_Sep2020\\Python_code_results\\NumerologyReports            
+not,  D:\Documents_Sep2020\Python_code_results\NumerologyReports
+
 
 While entering the details, enter 'Day', 'Month', and 'Year' in number format.
 Ex:- 
