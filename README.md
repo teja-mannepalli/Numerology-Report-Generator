@@ -14,8 +14,11 @@ Kindly note tha path with double backlash '\\ \\' and not single backslash '\\'.
 
 While entering the details, enter 'Day', 'Month', and 'Year' in number format.
 Ex:- 
+
        Day      13
+       
        Month    04
+       
        Year     1994
        
        Name     Abc D Efgh
