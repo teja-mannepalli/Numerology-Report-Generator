@@ -15,13 +15,13 @@ Kindly note tha path with double backlash '\\ \\' and not single backslash '\\'.
 While entering the details, enter 'Day', 'Month', and 'Year' in number format.
 Ex:- 
 
-       Day      13
+       Day:      13
        
-       Month    04
+       Month:    04
        
-       Year     1994
+       Year:     1994
        
-       Name     Abc D Efgh
+       Name:     Abc D Efgh
        
 The project is accomplished just for learning purposes only. Commercialization is not intended and is prohibited.
 
