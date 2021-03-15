@@ -8,7 +8,7 @@ Change the path value of variable 'save_path' (Line 7) in 'main.py'.
 
 Ex: D:\ \Documents_Sep2020 \ \ Python_code_results \ \ NumerologyReports            
 not,  D:\Documents_Sep2020\Python_code_results\NumerologyReports
-Kindly not the '\\' but not '\'
+Kindly note tha path with double backlash '\ \' and not single backslash '\\'
 
 
 While entering the details, enter 'Day', 'Month', and 'Year' in number format.
