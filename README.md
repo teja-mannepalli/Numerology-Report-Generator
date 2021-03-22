@@ -29,7 +29,7 @@ The project is accomplished by me just for learning purposes only. Commercializa
 
 ![44](https://user-images.githubusercontent.com/46516739/111936289-60bed980-8aeb-11eb-9e93-f43c9252fccd.JPG)
 
-2. Enter your detailsa as:
+2. Enter your details as shown:
 
 ![22](https://user-images.githubusercontent.com/46516739/111936299-63213380-8aeb-11eb-81d9-e7a1305224c0.JPG)
 
