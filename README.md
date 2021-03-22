@@ -6,10 +6,10 @@ Kindly set the path of the directory to which the text files are to be saved.
 Change the path value of variable 'save_path' (Line 7) in 'main.py'.
 
 
-Ex: D:\ \Documents_Sep2020 \ \ Python_code_results \ \ NumerologyReports            
-not,  D:\Documents_Sep2020\Python_code_results\NumerologyReports
+Ex: "D:\\Documents_Sep2020\\Python_code_results\\NumerologyReports"            
+not,  "D:\Documents_Sep2020\Python_code_results\NumerologyReports"
 
-Kindly note tha path with double backlash '\\ \\' and not single backslash '\\'. (No spaces in between)
+Kindly note tha path with double backlash "\\ \\" and not single backslash "\\". (No spaces in between)
 
 
 While entering the details, enter 'Day', 'Month', and 'Year' in number format.
