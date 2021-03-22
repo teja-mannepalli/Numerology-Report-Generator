@@ -37,7 +37,12 @@ The project is accomplished by me just for learning purposes only. Commercializa
 
 ![55](https://user-images.githubusercontent.com/46516739/111936293-61f00680-8aeb-11eb-8d40-a8b200b73cbd.JPG)
 
-4.The file has your numerology info:
+4.The file has your numerology info (as shown in two screenshots):
+
+(i)
 
 ![66I](https://user-images.githubusercontent.com/46516739/111936295-62889d00-8aeb-11eb-81c3-bb4c8f511751.JPG)
+
+(ii)
+
 ![66II](https://user-images.githubusercontent.com/46516739/111936296-63213380-8aeb-11eb-831a-6715517efb13.JPG)
